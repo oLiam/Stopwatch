@@ -1,0 +1,45 @@
+* {
+    font-family: calibri, arial, sans-serif;
+    color: black;
+}
+
+
+.stopwatch {
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+#timer {
+    border: solid black 1px;
+    display: inline;
+    font-size: 50px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+#start {
+    position: relative;
+    top: 10px;
+    text-align: center;
+    display: inline;
+
+}
+
+#stop {
+    position: relative;
+    top: 10px;
+    text-align: center;
+    display: inline;
+    }
+
+#reset {
+    position: relative;
+    top: 10px;
+    text-align: center;
+    display: inline;
+}
+
+
+
+/*  Liam Boer    2014-2015    Media Development  */
